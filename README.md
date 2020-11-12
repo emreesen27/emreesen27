@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Computer Engineer ⚡️ and Mobile developer 💻 . I am experienced in hybrid and native mobile application development. 
+I am an Computer Engineer and Mobile developer. I am experienced in hybrid and native mobile application development. 
 
 - 🔭 I’m currently working on [signin-button](https://pub.dev/packages/sign_button)
 - 💬 Ask me about  Native/Java and [Flutter](https://flutter.dev) 
