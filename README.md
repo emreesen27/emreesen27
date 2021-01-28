@@ -6,8 +6,8 @@ I am an Computer Engineer and Mobile developer. I am experienced in hybrid and n
 - 💬 Ask me about  Native/Java and [Flutter](https://flutter.dev) 
 
 ### Get in Touch
-* [LinkedIn](www.linkedin.com/in/aydınemreesen96)
-* [Website](www.aemreesen.com)
+* [LinkedIn](https://www.linkedin.com/in/aydınemreesen96)
+* [Website](https://www.aemreesen.com)
 
 <a href="https://profile-summary-for-github.com/user/emreesen27">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=emreesen27&show_icons=true&line_height=27&count_private=true&include_all_commits=true" alt="emreesen27's GitHub stats"/>
