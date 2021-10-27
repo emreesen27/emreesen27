@@ -3,7 +3,7 @@
 I am an Computer Engineer and Mobile application developer. I am experienced in hybrid and native mobile application development. 
 
 - 🔭 I’m currently working on [Android-Custom-Toast-Message](https://github.com/emreesen27/Android-Custom-Toast-Message)
-- 💬 Ask me about  Native/Java and [Flutter](https://flutter.dev) 
+- 💬 Ask me about  Native/Java-Kotlin and [Flutter](https://flutter.dev) 
 
 ### Get in Touch
 * [LinkedIn](https://www.linkedin.com/in/aydınemreesen96)
